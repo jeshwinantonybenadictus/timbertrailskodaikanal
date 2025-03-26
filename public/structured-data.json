@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LodgingBusiness",
+  "name": "TimberTrails",
+  "description": "Premium accommodations in Kodaikanal including luxury cottages, glamping tents, and treehouse retreats.",
+  "url": "https://timbertrails.com",
+  "telephone": "+918056393753",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 Lake Road",
+    "addressLocality": "Kodaikanal",
+    "addressRegion": "Tamil Nadu",
+    "postalCode": "624101",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "10.2381",
+    "longitude": "77.4892"
+  },
+  "priceRange": "₹₹₹",
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Mountain Views",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Free WiFi",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Guided Nature Walks",
+      "value": true
+    }
+  ],
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Luxury Cottages",
+      "description": "Cozy wooden cottages nestled among pine trees with panoramic valley views and modern amenities."
+    },
+    {
+      "@type": "Offer",
+      "name": "Glamping Tents",
+      "description": "Luxury camping with comfortable beds, electricity, and private bathrooms with stunning mountain views."
+    },
+    {
+      "@type": "Offer",
+      "name": "Treehouse Retreats",
+      "description": "Elevated wooden treehouses offering a unique stay experience with forest canopy views."
+    }
+  ]
+}
+
