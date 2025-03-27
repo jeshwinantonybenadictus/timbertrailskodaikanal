@@ -63,7 +63,7 @@ export default function HeroSection() {
               <div className="py-6">
                 <div className="flex items-center mb-4 text-lg">
                   <Phone className="h-6 w-6 mr-3 text-primary" />
-                  <a href="tel:908765190" className="hover:text-primary">
+                  <a href="tel:9087651905" className="hover:text-primary">
                   908765190
                   </a>
                 </div>
@@ -80,7 +80,7 @@ export default function HeroSection() {
                   <Button variant="outline" onClick={() => setIsContactOpen(false)}>
                     Close
                   </Button>
-                  <Button className="bg-primary text-white" onClick={() => (window.location.href = "tel:8056393753")}>
+                  <Button className="bg-primary text-white" onClick={() => (window.location.href = "tel:9087651905")}>
                     Call Now
                   </Button>
                 </div>

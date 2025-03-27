@@ -16,8 +16,8 @@ const accommodationsData = {
     longDescription:
       "Experience the ultimate mountain retreat in our luxury cottages, where traditional architecture meets modern comfort. Each cottage is strategically positioned to offer maximum privacy and stunning views of the Kodaikanal valley. Inside, you'll find spacious bedrooms with premium bedding, a fully-equipped kitchen, a dining area, and a living room with a traditional fireplace. The large windows allow natural light to flood in while providing breathtaking views of the surrounding pine forest. Outside, your private deck is the perfect spot for stargazing or enjoying a quiet evening with loved ones. Our cottages are equipped with high-speed internet, smart TVs, and premium bath amenities. Housekeeping services are provided daily, and our concierge can arrange for special experiences like private dining or guided nature walks.",
     images: [
-      "/assets/Woodhouse6.jpg",
-      "/assets/Cottage4.jpg",
+      "/assets/Woodhouse6.jpg?height=100&width=100",
+      "/assets/Cottage4.jpg?height=100&width=100",
     ],
     amenities: [
       "Fireplace",
