@@ -15,6 +15,7 @@ import { motion } from "framer-motion"
 
 export default function HeroSection() {
   const [isContactOpen, setIsContactOpen] = useState(false)
+  
 
   return (
     <div
